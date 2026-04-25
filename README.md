@@ -1,4 +1,4 @@
-  #Hello i'm                                                                           <br> Khaled AhmedEzzat
+  #                                                                           <br> Khaled AhmedEzzat
 i'm a Software Engineer & Junior Backend Developer with a strong focus on the .NET ecosystem (C#)
 <br><br>My engineering foundation covers OOP, Data Structures, MVC, and Onion Architecture, enabling me to write structured code that solves real problems. I also bring frontend experience with HTML, CSS, Bootstrap and Angular
 
